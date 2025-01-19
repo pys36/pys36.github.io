@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: pys36.github.io
+Token: 5c3bd42846b4c61c908540aa68fefd23cb453fc12448cf11a88d620944547768
